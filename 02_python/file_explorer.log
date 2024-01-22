@@ -1,0 +1,4 @@
+2024-01-23 00:45:45,784:INFO:root:Command name: grep
+2024-01-23 00:45:45,785:INFO:root:Options: ['-n']
+2024-01-23 00:45:45,785:INFO:root:Positional args: ['Represent', 'commands/list_command.py']
+2024-01-23 00:45:45,786:INFO:root:Input command: grep -n Represent commands/list_command.py
